@@ -73,7 +73,11 @@ Click 'Copy' to copy your signature.
 
 #### Step 5.3
 
-Add the signature as a TXT record to your domain to prove you own it.
+Add the signature as a TXT record to your domain to prove you own it. Two examples of adding the TXT record in the DNS zone editor look like these:
+
+<figure><img src=".gitbook/assets/5-3-1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/5-3-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **How to add the signature?**
